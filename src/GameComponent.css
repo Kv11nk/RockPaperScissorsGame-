@@ -1,0 +1,21 @@
+img {
+    height: 100px;
+    width: 100px;
+    background-color: rgb(0, 238, 255);
+    padding: 25px;
+    border-radius: 25%;
+}
+div{
+    text-align: center;
+    padding-top: 100px;
+    background-color: rgba(255, 238, 0, 0.788);
+    height: 800px;
+    
+}
+.GameComponent-icon{
+    margin-bottom: 100px;
+    padding: 25px;
+    margin-left: 20px;
+    background-color: rgb(255, 153, 0);
+    
+}
